@@ -6,5 +6,6 @@ public class Main {
     System.out.println("lucky kabootar");
     System.out.println("hello how are you");
     System.out.println(new Date());
+    System.out.println("hello");
   }
 }
